@@ -1,0 +1,32 @@
+            Respuestas
+
+¿Que es una variable?
+Es un dato el cual almacena un valor definido previamente. 
+Éste valor puede ser reasignado en cualquier insatancia.
+
+¿Que és un string?
+Es una cadena de caracteres. Pueden ser tanto letras como números. 
+Se definen siempre entre comillas ya sean simples o dobles
+
+¿Que és una funcion?
+Es un objeto invocable (callable object), el cual nos sirve para poder
+simplificar operaciones y evitar la redundancia de codigo.
+Las funciones comienzan por la palabra clave "function", seguido del
+nombre que querramos darle a dicha funcion y entre parentecis ingresamos los argumentos con los que
+trabajará, separados por una coma "," en caso de ser mas de uno. Posteriormente entre llaves "{}"
+definimos el codigo a ejecutarse al invocar la funcion creada.
+
+   function nombreFuncion(argumento a, argumento b){
+    codigo a ejecutarse
+}
+
+ Return: ésta declaración permite retornar un dato en específico de una funcion, solo lo que este definido
+ por el "return" sera lo único que saldrá de la función y será devuelto.
+ Dato a considerar, es que una ves se toca e inicia el return, se detiene toda la ejecuion siguiente.
+
+ ¿Qué son las declaraciones?
+ Son instrucciones a ejecutarse, como por ejemplo la declaración "if", es de control de flujo y lo que
+ hace es verificar si nuestra función es "true" o "false", para delimitar que accion definida realizar en cada situacion.
+
+ ¿Qué son los valores Booleanos?
+ Es un tipo de dato el cual solo puede tener dos valores, estos son true o false.
