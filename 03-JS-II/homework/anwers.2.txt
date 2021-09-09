@@ -1,0 +1,13 @@
+        ¿Que es for?
+for es una herramienta de iteración que nos ayudara a la hora de crear bucles, para la ejecucion de codigo repetitivo.
+    Estructura
+                            for (var g = 0; g <= 14; g++){
+                                //codigo a ejecutar hasta que la sentencia sea "false"
+                                console.log(g)
+                            }
+
+        ¿&&, ||, !?
+Son operadores logicos, que trabajan con la logica booleana, 
+En donde "&&" sera true siempre que ambos operando sean iguales
+Cuando "||" esta presente devolvera false solo si ambos operando son false
+"¡" este operador es una negacion, la cual devolvera lo contrario a lo que le estemos facilitando.
