@@ -1,0 +1,23 @@
+        ¿Arrays?
+
+
+Los "arrays" o arreglos son una coleccion de datos. La cual puede estar definido sus datos
+o se los puede ir pusheando hacia el arreglo. Para esto contamos con comandos como lo son:
+
+.push: Agrega un dato al final de la coleccion. 
+.pop : Invoca el ultimo dato dentro de la colleccion y asu su ves lo remueve de la misma.
+
+Tambien podemos hacer lo mismo con los comandos de:
+.unshift: el cual añade un dato al comienzo de la coleccion.
+.shift: invoca al primer elemento de la coleccion y lo remueve de la misma.
+
+Estructura de un arrays
+
+array[]: array vacio.
+array = [1, 2, true, 'lauty', function suma(numero) {console.log('Hola')}]
+
+Cada uno de los datos se almacena en un indice, el cual es un numero(el primero siempre es cero)
+Para acceder a cada uno de los datos se invoca el array junto al indice entre braquets
+
+array[0]
+array[4]
