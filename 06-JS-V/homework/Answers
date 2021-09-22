@@ -1,0 +1,7 @@
+Prototype que és?
+El Prototype es un metodo que nos permite añadir metodos a nuestra plantilla Class o funcion constructora. 
+Esto sera heredado a todos los objetos que sean creados a partir del mismo Class o constructor,
+nos permitira ejecutar metodos sin tener que almacenarlos en cada class y asi ahorrar recursos.
+
+Class que son?
+Las clases son plantillas, utilizadas para la creacion de objetos y asi evitar codigo redundante.
